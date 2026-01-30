@@ -1,0 +1,4 @@
+0 Hola
+1 Collar
+2 Nada
+3 Aplausos
